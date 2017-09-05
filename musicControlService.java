@@ -21,7 +21,7 @@ import cn.dongha.ido.common.utils.AppSharedPreferencesUtils;
 /**
  * @author: sslong
  * @package: cn.dongha.ido.
- * @description: ${TODO}{一句话描述该类的作用}
+ * @description: ${TODO}{一句话描述该类的作用}   通过蓝牙 控制手机音乐播放
  * @date: 2016/7/11 12:02
  */
 @SuppressLint("OverrideAbstract")
